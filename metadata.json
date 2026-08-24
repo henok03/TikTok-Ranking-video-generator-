@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Ranking Generator",
+  "description": "Create and export 9:16 vertical TikTok ranking videos (1080x1920 MP4) where videos play sequentially from #3 to #1 with persistent title, custom logo, ranking badges, and view counts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
